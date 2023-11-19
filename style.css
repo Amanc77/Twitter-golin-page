@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(15, 22, 22);
+    font-size: 15px;
+    font: roboto;
+}
+.container{
+    
+    height: 70%;
+    width: 35%;
+    border: px solid ;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    transform: translateY();
+    
+
+}
+.container img{
+    height: 40px;
+    
+}
+.xlogo{
+    transform: translateY(px);
+}
+.text{
+    margin-bottom: 20px;
+    text-align: left;
+    font-size: 2.5rem;
+    font-family: inherit;
+    justify-content: left;
+    justify-self: left;
+    transform: translateX(-50px);
+}
+ .apple .applelogo{ 
+    height: 20px;
+    
+}
+.next, .apple{
+    font-size: 1.2rem;
+    width: 300px;
+    height: 40px;
+    border: 0.2px;
+    border-radius: 50px;
+    background-color: white;
+}
+
+
+.password {
+    width: 300px;
+    height: 40px;
+    border: 0.00001px solid white;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    font-size: 1.2rem;
+}
+#email{
+    width: 300px;
+    height: 45px;
+    border: 0.2px solid rgba(255, 255, 255, 0.438);
+    border-radius: 2px;
+    background-color:black;
+    color: white;
+    font-size: 1.2rem;
+    padding-left: 10px;
+}
+.footer{
+
+    display: flex;
+    text-align: left;
+    justify-content: left;
+    transform: translateX(-50px);
+    color: rgb(142, 128, 101);
+}
+.next:hover, .apple:hover, .applelogo:hover{
+    background-color: rgb(255, 0, 0);
+}
+.password:hover{
+    background-color: rgb(189, 83, 189);
+}
