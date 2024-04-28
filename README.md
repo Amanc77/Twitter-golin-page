@@ -32,6 +32,11 @@ To run this project locally, follow these steps:
 A live demo of this project is available at [Demo Link](https://amanc77.github.io/Twitter-golin-page/)
 
 
+https://github.com/Amanc77/Twitter-golin-page/assets/148977902/6c1f3d03-6f33-4c90-b554-e5ffff8e31e4
+
+
+
+
 
 
 
